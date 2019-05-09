@@ -1,5 +1,4 @@
 const cards = document.querySelectorAll('.cards');
-console.log(cards);
 
 function startRotate(event) {
     const cardItem = this.querySelector('.card-item');
